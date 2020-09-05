@@ -1,16 +1,14 @@
+![Alt Text](undraw_feeling_proud_qne1.png)
 ### Hi there 👋
 
-<!--
-**GigaGeekKPI/GigaGeekKPI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend developer who is passionate about creating cool and powerful web applications. I treat it like a God-simulator, where I create some entities, place them on their position, give them behaviour. I enjoy working with technologies including ReactJS, Angular and tons of CSS frameworks
 
-Here are some ideas to get you started:
+Pets:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Chuch Norris app](https://gigageekkpi.github.io/ChuckNorris-app/)  
+[Courses app](https://gigageekkpi.github.io/Courses-app/)
+
+Contacts:
+
+LinkedIn https://www.linkedin.com/in/kirill-kuzmenko-b8925119b/  
+Telegram https://t.me/raptordeveloper  
