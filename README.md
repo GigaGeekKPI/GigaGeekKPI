@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/GigaGeekKPI/GigaGeekKPI/blob/master/undraw_feeling_proud_qne1.png)
+<img height=350 src='https://github.com/GigaGeekKPI/GigaGeekKPI/blob/master/undraw_feeling_proud_qne1.png'></img>
 ### Hi there 👋
 
 I'm a Frontend developer who is passionate about creating cool and powerful web applications. I treat it like a God-simulator, where I create some entities, place them on their position, give them behaviour. I enjoy working with technologies including ReactJS, Angular and tons of CSS frameworks
